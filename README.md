@@ -39,7 +39,7 @@ Three rules the generator holds itself to:
 ## Install
 
 ```bash
-git clone https://github.com/your-handle/githood
+git clone https://github.com/0xwast3/githood
 cd githood
 pip install -e .          # gives you the `githood` command
 ```
